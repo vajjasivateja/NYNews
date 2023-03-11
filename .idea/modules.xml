@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/NYNewsApp.iml" filepath="$PROJECT_DIR$/.idea/modules/NYNewsApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/NYNews.iml" filepath="$PROJECT_DIR$/.idea/modules/NYNews.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/NYNews.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/NYNews.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/NYNews.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/NYNews.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/NYNews.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/NYNews.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/NYNews.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/NYNews.app.unitTest.iml" />
     </modules>
   </component>
 </project>
