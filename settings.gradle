@@ -1,0 +1,8 @@
+include ':app'
+rootProject.name = "NYNews"
+dependencyResolutionManagement {
+    repositories {
+        google()
+        jcenter()
+    }
+}
